@@ -34,7 +34,8 @@ Upload the PDF and relevant files to GitHub.
 Document the GitHub repo link in the submission.
 
 ## Output:
-<img width="1265" height="763" alt="image" src="https://github.com/user-attachments/assets/71bc98af-df8e-4c2c-b7d8-a80bee81cb19" />
+<img width="1044" height="728" alt="image" src="https://github.com/user-attachments/assets/e008e6c1-6b0b-4ea6-88fa-e19ea284ba41" />
+
 
 
 ## Result:
