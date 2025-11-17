@@ -34,7 +34,8 @@ Upload the PDF and relevant files to GitHub.
 Document the GitHub repo link in the submission.
 
 ## Output:
-![Screenshot 2025-06-01 144810](https://github.com/user-attachments/assets/b57e856d-c9b3-4556-bfc0-6e1541364bcd)
+<img width="1265" height="763" alt="image" src="https://github.com/user-attachments/assets/71bc98af-df8e-4c2c-b7d8-a80bee81cb19" />
+
 
 ## Result:
 Thus the given UX project senarios is successfully created.
